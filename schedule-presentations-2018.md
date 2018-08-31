@@ -14,7 +14,7 @@
 | 23 Oct  | Heuristics & Biases || [Explaining the Enigmatic Anchoring Effect: Mechanisms Of Selective Accessibility](https://www.dropbox.com/s/vihju37ob82nvxb/Explaining%20the%20enigmatic%20anchoring%20effect.pdf?dl=0) |
 | 30 Oct  | Rationality & decision-making || [Knowing With Certainty: The Appropriateness Of Extreme Confidence](https://www.dropbox.com/s/cbzihvnxfhzmaun/Knowing%20with%20Certainty.pdf?dl=0) |
 | 30 Oct  | Rationality & decision-making || [Extraneous Factors In Judicial Decisions](https://www.dropbox.com/s/glnbbxtmmxy3thr/Extraneous%20factors%20in%20judicial%20decisions.pdf?dl=0) |
-| 6 Nov   | Persuasion || [Indirect Persuasion In Advertising](https://www.dropbox.com/s/wrp6zoz4gi5ynsq/Indirect%20persuasion%20in%20advertising.pdf?dl=0) |
+| 6 Nov   | Persuasion |Nathan Crowther| [Indirect Persuasion In Advertising](https://www.dropbox.com/s/wrp6zoz4gi5ynsq/Indirect%20persuasion%20in%20advertising.pdf?dl=0) |
 | 6 Nov   | Persuasion ||[Cognitive Consequences Of Forced Compliance](https://www.dropbox.com/s/xilkul1lqvnh2sx/cognitive-consequence-forced-compliance.pdf?dl=0) |
 | 13 Nov  | Culture || [Attending Holistically Versus Analytically: Comparing the Context Sensitivity of Japanese Versus Americans](https://www.dropbox.com/s/v5nabg01fbmn452/Attending%20Holistically%20Versus%20Analytically%20Comparing%20the%20Context%20Sensitivity%20of%20Japanese%20and%20Americans.pdf?dl=0) |
 | 13 Nov  | Culture || [Culture and Change Blindness](https://www.dropbox.com/s/83kvywzpjnjse28/Culture%20and%20Change%20Blindness.pdf?dl=0) |
